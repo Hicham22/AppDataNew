@@ -13,7 +13,7 @@
       "backup_ads_intertitial":"",
 
       "interval_intertitial": 3,
-      "status_app": false,
+      "status_app": true,
       "backup_ads": false,
 
       "high_paying_keyword_1": "",
@@ -48,8 +48,8 @@
       "title": "1",
       "image": "https://picsum.photos/700/1024",
       "description": "",
-      "link": "",
-      "ads":false
+      "link": "https://google.com",
+      "ads":true
     },{
       "id": 1,
       "name_category": "wallpaper",
