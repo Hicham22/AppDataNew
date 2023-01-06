@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FAC",
+
+      "main_ads_banner": "ca-app-pub-3155826404106700/3117497243",
+      "main_ads_rewardVideo":"ca-app-pub-3155826404106700/4920382125",
+      "main_ads_intertitial":"ca-app-pub-3155826404106700/7986680544",
+
+      "backup_ads_banner":"",
+      "backup_ads_rewardVideo":"",
+      "backup_ads_intertitial":"",
+
+      "interval_intertitial": 3,
+      "status_app": false,
+      "backup_ads": false,
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "wallpaper",
+      "image": "#",
+      "link":"#",
+      "status":false
+    }
+  ],
+  "Data":
+  [
+    {
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://picsum.photos/700/1024",
+      "description": "",
+      "link": "",
+      "ads":false
+    }
+  ]
+}
