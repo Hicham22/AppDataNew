@@ -14,7 +14,7 @@
 
       "interval_intertitial": 3,
       "status_app": true,
-      "backup_ads": false,
+      "backup_ads": true,
 
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
