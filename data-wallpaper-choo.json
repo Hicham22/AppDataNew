@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FAC",
+
+      "main_ads_banner": "ca-app-pub-3940256099942544/2934735716",
+      "main_ads_rewardVideo":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+
+      "backup_ads_banner":"",
+      "backup_ads_rewardVideo":"1191168758461286_1191177668460395",
+      "backup_ads_intertitial":"",
+
+      "interval_intertitial": 3,
+      "status_app": true,
+      "backup_ads": false,
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "wallpaper",
+      "image": "#",
+      "link":"#",
+      "status":false
+    }
+  ],
+  "Data":
+  [
+    {
+      "id": 1,
+      "name_category": "wallpaper",
+      "title": "1",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/1.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 2,
+      "name_category": "wallpaper",
+      "title": "2",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/2.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 3,
+      "name_category": "wallpaper",
+      "title": "3",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/3.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 4,
+      "name_category": "wallpaper",
+      "title": "4",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/4.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 5,
+      "name_category": "wallpaper",
+      "title": "5",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/5.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 6,
+      "name_category": "wallpaper",
+      "title": "6",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/6.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 7,
+      "name_category": "wallpaper",
+      "title": "7",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/7.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 8,
+      "name_category": "wallpaper",
+      "title": "8",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/8.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 9,
+      "name_category": "wallpaper",
+      "title": "9",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/9.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    },{
+      "id": 10,
+      "name_category": "wallpaper",
+      "title": "10",
+      "image": "https://hicham22.github.io/AppDataNew/wallpaper-choo/10.jpg",
+      "description": "",
+      "link": "",
+      "ads":false
+    }
+  ]
+}
