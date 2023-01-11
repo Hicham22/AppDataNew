@@ -1,0 +1,190 @@
+{
+    "Ads": [{
+            "select_main_ads": "ADMOB",
+            "select_backup_ads": "FAC",
+
+            "main_ads_banner": "ca-app-pub-3940256099942544/2934735716",
+            "main_ads_rewardVideo": "ca-app-pub-3940256099942544/5224354917",
+            "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+
+            "backup_ads_banner": "",
+            "backup_ads_rewardVideo": "1191168758461286_1191177668460395",
+            "backup_ads_intertitial": "",
+
+            "interval_intertitial": 3,
+            "status_app": true,
+            "backup_ads": false,
+
+            "high_paying_keyword_1": "",
+            "high_paying_keyword_2": "",
+            "high_paying_keyword_3": "",
+            "high_paying_keyword_4": "",
+            "high_paying_keyword_5": "",
+            "link_redirect": "https://"
+        }
+    ],
+    "Categories": [{
+            "name_category": "wallpaper",
+            "image": "#",
+            "link": "#",
+            "status": false
+        }
+    ],
+    "Data":[	
+		{
+            "id": 0,
+            "name_category": "ADS",
+            "title": "(New App) Repocket - Earn money easy",
+            "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
+            "description": "",
+            "link": "https://play.google.com/store/apps/details?id=com.hachchadi.guiderepocket",
+            "ads": true
+        }, {
+            "id": 0,
+            "name_category": "ADS",
+            "title": "(New App) Inboxdollars - Earn money",
+            "image": "https://dollarsprout.com/wp-content/uploads/2020/01/DollarSprout-Inbox-Dollars-Review-600x230@2x.png",
+            "description": "",
+            "link": "https://play.google.com/store/apps/details?id=com.hachchadi.guideinboxdollars",
+            "ads": true
+        }, {
+            "id": 1,
+            "name_category": "Honeygain",
+            "title": "Honeygain Review: Passive Income from Your Internet Connection",
+            "image": "https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/61cd5ddf80f87e001d4da31c.jpg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Honeygain%20Review.html",
+            "ads": false
+        }, {
+            "id": 2,
+            "name_category": "Honeygain",
+            "title": "JumpTask",
+            "image": "https://static.wixstatic.com/media/ce89b8_2129de6705bf4da79d1d562bdf2ceaae~mv2.png/v1/fill/w_740,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ce89b8_2129de6705bf4da79d1d562bdf2ceaae~mv2.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Jumptask.html",
+            "ads": false
+        }, {
+
+            "id": 3,
+            "name_category": "Honeygain",
+            "title": "What is JumpTask mode?",
+            "image": "https://webassets.honeygain.com/uploads/2022/01/04110843/Honeygain_JumpTask1-1.svg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Jumptask%20Mode.html",
+            "ads": false
+        }, {
+            "id": 4,
+            "name_category": "Honeygain",
+            "title": "10 Tips To Maximize Earnings On Honeygain",
+            "image": "https://miro.medium.com/max/509/1*gqRAicWBVrues_ll638Kaw.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/10%20Tips.html",
+            "ads": false
+        }, {
+            "id": 5,
+            "name_category": "Honeygain",
+            "title": "Ultimate Guide to earning $100 a month with honeygain",
+            "image": "https://preview.redd.it/sj0zuy5gr4m51.png?width=778&format=png&auto=webp&s=a42f0dbd38b093120cc27cefbf08448de2fa6ec9",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Ultimate%20Guide.html",
+            "ads": false
+        }, {
+            "id": 6,
+            "name_category": "Honeygain",
+            "title": "GUIDE/Honeygain/Ultimate%20Guide.html",
+            "image": "https://www.cobryle.com/wp-content/uploads/2021/08/honeygain-complete-beginner-guide-logo.png?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Complete%20guide.html",
+            "ads": false
+        }, {
+
+            "id": 7,
+            "name_category": "Honeygain",
+            "title": "Tips & Tricks on how to maximize your earnings",
+            "image": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_620/MTc4ODA0NDQxNzAzNzIwNDU1/free-money-honeygain-review.webp",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Tips%20and%20Trick.html",
+            "ads": false
+        }, {
+            "id": 8,
+            "name_category": "Honeygain",
+            "title": "Lucky Pot",
+            "image": "https://support.honeygain.com/hc/article_attachments/6103586675996/screenshot_2.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Luckypot.html",
+            "ads": false
+        }, {
+            "id": 9,
+            "name_category": "Honeygain",
+            "title": "11 Proven Ways to Increase Your Earnings using HoneyGain app",
+            "image": "https://www.cobryle.com/wp-content/uploads/2021/03/HoneyGain-100-free-credits-open-Jar-639x1024.jpg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/proven.html",
+            "ads": false
+        }, {
+            "id": 10,
+            "name_category": "Honeygain",
+            "title": "HoneyGain Review – Proof of Bitcoin Payout & Processing Time",
+            "image": "https://www.cobryle.com/wp-content/uploads/2021/05/honeygain-btc-request-payout-1024x493.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Proof%20of%20Bitcoin.html",
+            "ads": false
+        }, {
+            "id": 11,
+            "name_category": "Honeygain",
+            "title": "Honeygain Review – Proof of Paypal Payout & Processing Time",
+            "image": "https://www.cobryle.com/wp-content/uploads/2021/03/HoneyGain-confirmation-for-payout-request-1024x801.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Paypal%20Payout.html",
+            "ads": false
+        }, {
+            "id": 12,
+            "name_category": "Honeygain",
+            "title": "How do you get a 5 dollar Honeygain? honeygain how to earn faster",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5WblTrKofSWYwyovkb_1fRzlzI6m7KlNiZCwHd_kql-1_BpEe6BRtNnScBaNJdG2FqEbKG59hvX-fku73F9fhdKQpyg65KPNMTA-lEGR22SwZfAJFz9x4cDDLoZZokZqslJpIEDDzTlEHCGoJ6-nFrLykm-zOHqNRhJ59X4UOPCIQ-c0R9yZhlOY7tA/w640-h404/honygain.jpg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/5%20dollar.html",
+            "ads": false
+        }, {
+            "id": 13,
+            "name_category": "Honeygain",
+            "title": "Honeygain Review: Make Money Doing Nothing",
+            "image": "https://themoneyninja.com/wp-content/uploads/2020/09/Honeygain-Download-Install-Earn.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Doing%20Nothing.html",
+            "ads": false
+        }, {
+            "id": 14,
+            "name_category": "Honeygain",
+            "title": "HoneyGain app referral code for free $5 bonus + earn $20/M",
+            "image": "https://vlivetricks.com/wp-content/uploads/2020/05/honeygain-confirm-email.jpg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/5%20bonus.html",
+            "ads": false
+        }, {
+            "id": 15,
+            "name_category": "Honeygain",
+            "title": "Honeygain App Lets Users Earn Passive Income In Minutes",
+            "image": "https://webassets.honeygain.com/uploads/2020/07/28062046/how_it_works_3.svg",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Earn%20Passive.html",
+            "ads": false
+        }, {
+            "id": 16,
+            "name_category": "Honeygain",
+            "title": "Earn Money Online With Honeygain – How To Earn?",
+            "image": "https://i0.wp.com/cryptokiemtien.com/wp-content/uploads/2019/10/HO.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/How%20To%20Earn.html",
+            "ads": false
+        }, {
+            "id": 17,
+            "name_category": "Honeygain",
+            "title": "Complete tutorial to earn money from Honeygain",
+            "image": "https://www.swiftsalary.com/wp-content/uploads/2021/03/how-honeygain-works-v2.png",
+            "description": "",
+            "link": "https://hicham22.github.io/AppTutorial/Honeygain/Complete%20tutorial.html",
+            "ads": false
+        }
+    ]
+}
