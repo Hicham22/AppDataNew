@@ -31,23 +31,7 @@
         }
     ],
     "Data":[	
-		{
-            "id": 0,
-            "name_category": "ADS",
-            "title": "",
-            "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
-            "description": "",
-            "link": "https://play.google.com/store/apps/details?id=com.hachchadi.guiderepocket",
-            "ads": true
-        }, {
-            "id": 0,
-            "name_category": "ADS",
-            "title": "",
-            "image": "https://dollarsprout.com/wp-content/uploads/2020/01/DollarSprout-Inbox-Dollars-Review-600x230@2x.png",
-            "description": "",
-            "link": "https://play.google.com/store/apps/details?id=com.hachchadi.guideinboxdollars",
-            "ads": true
-        }, {
+	{
             "id": 1,
             "name_category": "Honeygain",
             "title": "Honeygain Review: Passive Income from Your Internet Connection",
