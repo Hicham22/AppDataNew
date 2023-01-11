@@ -4,12 +4,12 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"FAC",
 
-      "main_ads_banner": "ca-app-pub-3940256099942544/2934735716",
-      "main_ads_rewardVideo":"ca-app-pub-3940256099942544/5224354917",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-1375538114322032/9641566625",
+      "main_ads_rewardVideo":"ca-app-pub-1375538114322032/9483151504",
+      "main_ads_intertitial":"ca-app-pub-1375538114322032/9178532192",
 
       "backup_ads_banner":"",
-      "backup_ads_rewardVideo":"1191168758461286_1191177668460395",
+      "backup_ads_rewardVideo":"1191168758461286_1193176034927225",
       "backup_ads_intertitial":"",
 
       "interval_intertitial": 3,
