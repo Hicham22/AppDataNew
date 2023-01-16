@@ -4,9 +4,9 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"FAC",
 
-      "main_ads_banner": "ca-app-pub-1375538114322032/9641566625",
-      "main_ads_rewardVideo":"ca-app-pub-1375538114322032/9483151504",
-      "main_ads_intertitial":"ca-app-pub-1375538114322032/9178532192",
+      "main_ads_banner": "ca-app-pub-9078584891378140/7469864705",
+      "main_ads_rewardVideo":"ca-app-pub-9078584891378140/8585551542",
+      "main_ads_intertitial":"ca-app-pub-9078584891378140/4843701367",
 
       "backup_ads_banner":"",
       "backup_ads_rewardVideo":"1191168758461286_1193176034927225",
